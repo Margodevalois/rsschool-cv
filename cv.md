@@ -1,4 +1,4 @@
-## [rsshool-cv](https://rs.school/)
+## [rsschool-cv](https://rs.school/)
 
 ---
 
