@@ -1,2 +1,1 @@
-# rsschool-cv
-To complete the task CV. Markdown
+https://margodevalois.github.io/rsschool-cv/cv
