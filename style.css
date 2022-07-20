@@ -193,13 +193,13 @@ h1, h3{
     font-family: Georgia;
 }
 .contact_image_github{
-        background-image: url(../images/github.svg);
+        background-image: url(images/github.svg);
 }
 .contact_image_email{
-    background-image: url(../images/email.svg);
+    background-image: url(images/email.svg);
 }
 .contact_image_map{
-    background-image: url(../images/map.svg);
+    background-image: url(images/map.svg);
 }
 .contact_link{
     color: var(--text-color);
@@ -336,7 +336,7 @@ h1, h3{
     padding-right: 7%;
 }
 .footer_GIT{
-    background-image: url(../images/github.svg);
+    background-image: url(images/github.svg);
     background-size: cover;
     display: block;
     width: 40px;
@@ -346,7 +346,7 @@ h1, h3{
     transform: scale(1.2);
 }
 .footer_RS{
-    background-image: url(../images/logo-svg.png);
+    background-image: url(images/logo-svg.png);
     width: 64px;
     height: 54px;
     background-size: cover;
