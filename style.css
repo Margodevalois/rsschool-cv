@@ -1,18 +1,17 @@
 :root{
-    --main-color: #f0ae12;
-    --text-color: #363636;
-    --white: #ffffff;
-    --gray: #f3f4f5;
-    --light-gray: #e1e1e1;
-    --orange: #d6932e;
+--main-color: #f0ae12;
+--text-color: #363636;
+--white: #ffffff;
+--gray: #f3f4f5;
+--light-gray: #e1e1e1;
+--orange: #d6932e;
 }
 body{
 	width: 100%;
 	font-family: "Cabin", sans-serif;
 	color: var(--text-color);
 }
-p
-{
+p{
   text-align: justify;
   padding: 0;
 }
@@ -286,7 +285,6 @@ h1, h3{
     padding-right: 7%;
 }
 .footer_GIT{
-    background-image: url(images/github.svg);
     background-size: cover;
     display: block;
     width: 40px;
@@ -296,7 +294,6 @@ h1, h3{
     transform: scale(1.2);
 }
 .footer_RS{
-    background-image: url(images/logo-svg.png);
     width: 64px;
     height: 54px;
     background-size: cover;
